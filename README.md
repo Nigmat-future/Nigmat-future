@@ -6,7 +6,7 @@
 
 | Parameter           | Value                         |
 |---------------------|-------------------------------|
-| **Username**        | Nigmat-future                |
+| **Username**        | Nigmat Rahim           |
 | **Primary Focus**   | Bioinformatics + AI/ML       |
 | **Repository Count**| 8                             |
 
