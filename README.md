@@ -8,7 +8,7 @@
 |---------------------|-------------------------------|
 | **Username**        | Nigmat Rahim           |
 | **Primary Focus**   | Bioinformatics + AI/ML       |
-| **Repository Count**| 8                             |
+| **Repository Count**| 10                             |
 
 🔗 **Research Focus**: Single-cell genomics, bioinformatics automation, AI-driven clinical analytics.  
 📍 Positioned at the intersection of **biology, data science, and AI**.
@@ -35,7 +35,8 @@
 | **AgenticBioAnalysis**  | Python                                                                    | AI-driven analysis for GEO/SRA/GDC datasets. NLP query supported!  |
 | **scicolors**           | TypeScript, CSS                                                          | Library of accessible scientific color palettes.                  |
 | **cell-scribe-ai**      | TypeScript                                                               | AI-powered single-cell annotation.                                 |
-| **diabeta-ai-insight**   | TypeScript                                                               | Medical analytics for diabetes patient data.                       |
+| **AI-review-Literature** | TypeScript (85.5%), HTML (14.5%)                                         | AI-driven literature review and analysis application.              |
+| **MedInterprint**       | TypeScript (92.3%), HTML (7.7%)                                          | AI-driven medical web application for clinical insights.           |
 
 ---
 
@@ -55,10 +56,10 @@
 
 #### 📈 **Web/App Applications**
 - TypeScript Dashboards
-- Insights frontend like OmniScope.
+- Insights frontend like OmniScope, AI-review-Literature, MedInterprint.
 
 ### **Graphical Tools Recognition**
 🔼 Challenges Addressed:  
 - 🧬 Incompatible multi-dataset transformation  
-- 🤖 Web-framework-GUI/AI insights integrations. 
+- 🤖 Web-framework-GUI/AI insights integrations.
 ---
