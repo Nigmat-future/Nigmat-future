@@ -228,9 +228,5 @@ class Nigmat:
   </picture>
 </div>
 
-<!-- ░░░ FOOTER ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,40:1a3a3a,70:0d1117,100:0a0e14&height=130&section=footer&text=thanks%20for%20visiting&fontSize=15&fontColor=9fe7da&fontAlignY=72"/>
-
-<div align="center">
-<sub>✦ designed as a piece, not a template — one palette, glowing all the way down ✦</sub>
-</div>
+<!-- ░░░ FOOTER — hand-drawn DNA-helix banner ░░░ -->
+<img width="100%" src="https://raw.githubusercontent.com/Nigmat-future/Nigmat-future/main/assets/footer.svg" alt="thanks for visiting"/>

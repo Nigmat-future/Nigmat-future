@@ -1,0 +1,63 @@
+<svg viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Segoe UI',monospace">
+  <defs>
+    <linearGradient id="ffield" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#05080c"/>
+      <stop offset="100%" stop-color="#0a141b"/>
+    </linearGradient>
+    <linearGradient id="strandA" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2dd4bf" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="strandB" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a371f7" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#a371f7"/>
+      <stop offset="100%" stop-color="#a371f7" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="fglow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="1.6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="150" fill="url(#ffield)"/>
+
+  <!-- ░░ DNA double helix ribbon ░░ -->
+  <g filter="url(#fglow)">
+    <path d="M0,60 C150,20 150,100 300,60 S450,20 600,60 750,100 900,60 1050,20 1200,60"
+          fill="none" stroke="url(#strandA)" stroke-width="2.5"/>
+    <path d="M0,60 C150,100 150,20 300,60 S450,100 600,60 750,20 900,60 1050,100 1200,60"
+          fill="none" stroke="url(#strandB)" stroke-width="2.5"/>
+  </g>
+  <!-- base-pair rungs -->
+  <g stroke="#9fe7da" stroke-width="1" opacity="0.45">
+    <line x1="75"   y1="40" x2="75"   y2="80"/>
+    <line x1="225"  y1="80" x2="225"  y2="40"/>
+    <line x1="375"  y1="40" x2="375"  y2="80"/>
+    <line x1="525"  y1="80" x2="525"  y2="40"/>
+    <line x1="675"  y1="40" x2="675"  y2="80"/>
+    <line x1="825"  y1="80" x2="825"  y2="40"/>
+    <line x1="975"  y1="40" x2="975"  y2="80"/>
+    <line x1="1125" y1="80" x2="1125" y2="40"/>
+  </g>
+
+  <!-- travelling pulse along the strand -->
+  <circle r="4" fill="#eafef9" filter="url(#fglow)">
+    <animateMotion dur="6s" repeatCount="indefinite"
+      path="M0,60 C150,20 150,100 300,60 S450,20 600,60 750,100 900,60 1050,20 1200,60"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- gel-band ticks rising (electrophoresis vibe) -->
+  <g fill="#3fb950" opacity="0.0">
+    <rect x="140" y="118" width="26" height="4" rx="2"><animate attributeName="opacity" values="0;0.7;0" dur="5s" repeatCount="indefinite"/></rect>
+    <rect x="560" y="118" width="26" height="4" rx="2"><animate attributeName="opacity" values="0;0.7;0" dur="5s" begin="1.6s" repeatCount="indefinite"/></rect>
+    <rect x="980" y="118" width="26" height="4" rx="2"><animate attributeName="opacity" values="0;0.7;0" dur="5s" begin="3.1s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <!-- signature -->
+  <text x="600" y="115" text-anchor="middle" font-size="13" font-weight="500"
+        fill="#9fe7da" letter-spacing="2.5" opacity="0.85">
+    ✦&#160;&#160;designed as a piece, not a template&#160;&#160;·&#160;&#160;thanks for visiting&#160;&#160;✦
+  </text>
+</svg>
