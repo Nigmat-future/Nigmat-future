@@ -9,8 +9,8 @@
 
 <div align="center">
 
-<!-- ░░░ HEADER — bioluminescent gradient ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e14,30:0d1117,60:1a3a3a,100:2dd4bf&height=240&section=header&text=Nigmat%20Rahim&fontSize=72&fontColor=eafef9&animation=fadeIn&fontAlignY=34&desc=Biomedical%20AI%20·%20Agentic%20Research%20Systems%20·%20Translational%20Bioinformatics&descSize=17&descAlignY=54&descColor=9fe7da"/>
+<!-- ░░░ HEADER — hand-drawn fluorescence-microscopy banner ░░░ -->
+<img width="100%" src="https://raw.githubusercontent.com/Nigmat-future/Nigmat-future/main/assets/header.svg" alt="Nigmat Rahim — Biomedical AI · Agentic Research Systems · Bioinformatics"/>
 
 <!-- ░░░ TYPING LINE ░░░ -->
 <a href="https://github.com/Nigmat-future">
