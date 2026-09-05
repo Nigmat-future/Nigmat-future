@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" role="img" aria-labelledby="t" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
+<title id="t">nigmat@research status readout</title>
+<style>
+.cur{animation:cur 1.15s steps(1,end) infinite}
+@keyframes cur{0%,62%{opacity:1}63%,100%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.cur{opacity:1}}
+</style>
+<rect x="8" y="8" width="1184" height="184" rx="12" fill="#0f141b"/>
+<path d="M208 8 H1180 A12 12 0 0 1 1192 20 V180 A12 12 0 0 1 1180 192 H20 A12 12 0 0 1 8 180 V20 A12 12 0 0 1 20 8 H38" fill="none" stroke="#2c333c" stroke-width="1.1"/>
+<text x="48" y="13" font-size="13.5" fill="#2dd4bf" letter-spacing="1.6">nigmat@research</text>
+<rect x="46" y="43" width="5" height="5" fill="#2dd4bf" opacity="0.85"/>
+<text x="64" y="52" font-size="13" fill="#8b949e" letter-spacing="2.6">FOCUS</text>
+<text x="178" y="52" font-size="16" fill="#e6edf3" letter-spacing="0.6">agentic biomedical research systems</text>
+<rect x="46" y="81" width="5" height="5" fill="#2dd4bf" opacity="0.85"/>
+<text x="64" y="90" font-size="13" fill="#8b949e" letter-spacing="2.6">STACK</text>
+<text x="178" y="90" font-size="16" fill="#e6edf3" letter-spacing="0.6">python · R · typescript · langgraph</text>
+<rect x="46" y="119" width="5" height="5" fill="#2dd4bf" opacity="0.85"/>
+<text x="64" y="128" font-size="13" fill="#8b949e" letter-spacing="2.6">NOW</text>
+<text x="178" y="128" font-size="16" fill="#e6edf3" letter-spacing="0.6">bioagent v0.4 · topologos</text>
+<text x="64" y="166" font-size="15" fill="#2dd4bf">›</text>
+<rect class="cur" x="82" y="154" width="10" height="15" fill="#2dd4bf" opacity="0.9"/>
+<line x1="668" y1="36" x2="668" y2="168" stroke="#2c333c" stroke-width="1" opacity="0.9"/>
+<text x="704" y="32" font-size="11.5" fill="#6e7681" letter-spacing="2.4">TOP REPOSITORIES</text>
+<text x="704" y="52" font-size="12" fill="#2dd4bf" opacity="0.9">▸</text>
+<text x="724" y="52" font-size="15" fill="#e6edf3" letter-spacing="0.6">bioagent</text>
+<rect x="900" y="43" width="15" height="10" rx="1.5" fill="#2dd4bf" opacity="0.92"/>
+<rect x="918" y="43" width="15" height="10" rx="1.5" fill="#2dd4bf" opacity="0.92"/>
+<rect x="936" y="43" width="15" height="10" rx="1.5" fill="#2dd4bf" opacity="0.92"/>
+<rect x="954" y="43" width="15" height="10" rx="1.5" fill="#2dd4bf" opacity="0.92"/>
+<rect x="972" y="43" width="15" height="10" rx="1.5" fill="#2dd4bf" opacity="0.92"/>
+<rect x="990" y="43" width="15" height="10" rx="1.5" fill="#2dd4bf" opacity="0.92"/>
+<rect x="1008" y="43" width="15" height="10" rx="1.5" fill="#2dd4bf" opacity="0.92"/>
+<rect x="1026" y="43" width="15" height="10" rx="1.5" fill="#2dd4bf" opacity="0.92"/>
+<rect x="1044" y="43" width="15" height="10" rx="1.5" fill="#3d4650" opacity="0.5"/>
+<rect x="1062" y="43" width="15" height="10" rx="1.5" fill="#3d4650" opacity="0.5"/>
+<text x="1152" y="52" font-size="13" fill="#8b949e" letter-spacing="1.4" text-anchor="end">py</text>
+<text x="704" y="90" font-size="12" fill="#2dd4bf" opacity="0.9">▸</text>
+<text x="724" y="90" font-size="15" fill="#e6edf3" letter-spacing="0.6">topologos</text>
+<rect x="900" y="81" width="15" height="10" rx="1.5" fill="#2dd4bf" opacity="0.92"/>
+<rect x="918" y="81" width="15" height="10" rx="1.5" fill="#2dd4bf" opacity="0.92"/>
+<rect x="936" y="81" width="15" height="10" rx="1.5" fill="#2dd4bf" opacity="0.92"/>
+<rect x="954" y="81" width="15" height="10" rx="1.5" fill="#2dd4bf" opacity="0.92"/>
+<rect x="972" y="81" width="15" height="10" rx="1.5" fill="#2dd4bf" opacity="0.92"/>
+<rect x="990" y="81" width="15" height="10" rx="1.5" fill="#2dd4bf" opacity="0.92"/>
+<rect x="1008" y="81" width="15" height="10" rx="1.5" fill="#3d4650" opacity="0.5"/>
+<rect x="1026" y="81" width="15" height="10" rx="1.5" fill="#3d4650" opacity="0.5"/>
+<rect x="1044" y="81" width="15" height="10" rx="1.5" fill="#3d4650" opacity="0.5"/>
+<rect x="1062" y="81" width="15" height="10" rx="1.5" fill="#3d4650" opacity="0.5"/>
+<text x="1152" y="90" font-size="13" fill="#8b949e" letter-spacing="1.4" text-anchor="end">py</text>
+<text x="704" y="128" font-size="12" fill="#2dd4bf" opacity="0.9">▸</text>
+<text x="724" y="128" font-size="15" fill="#e6edf3" letter-spacing="0.6">axon</text>
+<rect x="900" y="119" width="15" height="10" rx="1.5" fill="#2dd4bf" opacity="0.92"/>
+<rect x="918" y="119" width="15" height="10" rx="1.5" fill="#2dd4bf" opacity="0.92"/>
+<rect x="936" y="119" width="15" height="10" rx="1.5" fill="#2dd4bf" opacity="0.92"/>
+<rect x="954" y="119" width="15" height="10" rx="1.5" fill="#2dd4bf" opacity="0.92"/>
+<rect x="972" y="119" width="15" height="10" rx="1.5" fill="#2dd4bf" opacity="0.92"/>
+<rect x="990" y="119" width="15" height="10" rx="1.5" fill="#3d4650" opacity="0.5"/>
+<rect x="1008" y="119" width="15" height="10" rx="1.5" fill="#3d4650" opacity="0.5"/>
+<rect x="1026" y="119" width="15" height="10" rx="1.5" fill="#3d4650" opacity="0.5"/>
+<rect x="1044" y="119" width="15" height="10" rx="1.5" fill="#3d4650" opacity="0.5"/>
+<rect x="1062" y="119" width="15" height="10" rx="1.5" fill="#3d4650" opacity="0.5"/>
+<text x="1152" y="128" font-size="13" fill="#8b949e" letter-spacing="1.4" text-anchor="end">ts</text>
+<text x="1152" y="166" font-size="11.5" fill="#6e7681" letter-spacing="1.4" text-anchor="end">synced 2026.09</text>
+</svg>
