@@ -21,7 +21,8 @@
 
 I build systems that take an ambiguous biomedical question and carry it through to a reproducible
 analysis — literature, study design, data acquisition, execution, write-up. Medicine by training,
-infrastructure by habit. Imperial College London, MSc Applied Multiomics in Biomedicine, incoming 2026.
+infrastructure by habit. Peking University, then Imperial College London — MSc Applied
+Multiomics in Biomedicine, incoming 2026.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nigmat-future/Nigmat-future/main/assets/divider-dark.svg">
