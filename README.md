@@ -1,16 +1,22 @@
 <!--
   Nigmat Rahim — profile README
-  Art direction: scientific instrument / terminal readout
-  Every visual ships as a light/dark pair behind <picture>.
-  Do not hardcode a background colour into any asset.
+  Art direction: scientific instrument / terminal readout, in Imperial College London colours.
+  Palette: Imperial Navy #002147 · Imperial Blue #003E74 · Pool Blue #0091D4 · Light Blue #D4EFFC · Red #DD2501
+  Header is a navy hero in both themes; every other visual ships as a light/dark pair behind <picture>.
 -->
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nigmat-future/Nigmat-future/main/assets/header-dark.svg">
-  <img width="100%" alt="Nigmat Rahim — Biomedical AI · Agentic Research Systems · Bioinformatics" src="https://raw.githubusercontent.com/Nigmat-future/Nigmat-future/main/assets/header-light.svg">
+  <img width="100%" alt="Nigmat Rahim — Imperial College London — Biomedical AI · Agentic Research Systems · Bioinformatics" src="https://raw.githubusercontent.com/Nigmat-future/Nigmat-future/main/assets/header-light.svg">
 </picture>
+
+<a href="https://www.imperial.ac.uk/"><img alt="Imperial College London · MSc Applied Multiomics in Biomedicine" src="https://img.shields.io/badge/Imperial_College_London-MSc_Applied_Multiomics_in_Biomedicine-002147?style=flat-square&labelColor=002147&color=003E74"></a>
+&nbsp;
+<img alt="Peking University" src="https://img.shields.io/badge/Peking_University-Medicine-002147?style=flat-square&labelColor=002147&color=003E74">
+&nbsp;
+<img alt="London" src="https://img.shields.io/badge/South_Kensington-London-002147?style=flat-square&labelColor=002147&color=0091D4">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nigmat-future/Nigmat-future/main/assets/panel-dark.svg">
@@ -21,8 +27,8 @@
 
 I build systems that take an ambiguous biomedical question and carry it through to a reproducible
 analysis — literature, study design, data acquisition, execution, write-up. Medicine by training,
-infrastructure by habit. Peking University, then Imperial College London — MSc Applied
-Multiomics in Biomedicine, incoming 2026.
+infrastructure by habit. Trained at Peking University; now at **Imperial College London** as an
+MSc student in Applied Multiomics in Biomedicine (2026–27).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nigmat-future/Nigmat-future/main/assets/divider-dark.svg">
