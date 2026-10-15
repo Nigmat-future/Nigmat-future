@@ -16,7 +16,7 @@
 &nbsp;
 <img alt="Peking University" src="https://img.shields.io/badge/Peking_University-Medicine-002147?style=flat-square&labelColor=002147&color=003E74">
 &nbsp;
-<img alt="London" src="https://img.shields.io/badge/South_Kensington-London-002147?style=flat-square&labelColor=002147&color=0091D4">
+<img alt="London" src="https://img.shields.io/badge/Hammersmith-London-002147?style=flat-square&labelColor=002147&color=0091D4">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nigmat-future/Nigmat-future/main/assets/panel-dark.svg">
